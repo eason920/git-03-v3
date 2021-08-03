@@ -2,7 +2,7 @@
 <div class="about">
   <h1>This is an about page</h1>
   <Card :title="envTitle"/>
-  <Card title="Wendy are my lover"/>
+  <Card title="Eason vue cli test"/>
 </div>
 </template>
 
